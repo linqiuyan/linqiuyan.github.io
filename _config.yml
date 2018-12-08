@@ -5,7 +5,7 @@
 # Site
 title: lqy blog
 subtitle:
-description:
+description: 一个平庸的程序媛
 keywords:
 author: Lynn
 language: zh-CN
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://linqiuyan.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman
+theme: pacman
+
+stylus:
+  compress:true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

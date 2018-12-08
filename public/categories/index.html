@@ -1,10 +1,10 @@
 
-  <!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html lang="zh-CN">
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="UTF-8">
   
-    <title>Archives | lqy blog</title>
+    <title>categories | lqy blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
     
     <meta name="author" content="Lynn">
@@ -60,78 +60,19 @@
 
       </header>
       <div id="container">
-        
-
+          
 <div class="archive-title">
-  <h2 class="archive-icon">归档</h2>
-  
-  <div class="archiveslist archive-float clearfix">
-   <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">十二月 2018</a><span class="archive-list-count">3</span></li></ul>
- </div>
-  
+<h2 class="category-icon">分类</h2>
+
+<a data-src="/categories/test/" href="#test" title="test">test<sup>1</sup></a>
+
 </div>
-<div id="main" class="archive-part clearfix">
-  <div id="archive-page">
-
-  <section class="post" itemscope="" itemprop="blogPost">
-  
-    <a href="/2018/12/08/test2/" title="test2" itemprop="url">
-  
-    <h1 itemprop="name">test2</h1>
-    
-    <time datetime="2018-12-08T07:03:01.000Z" itemprop="datePublished">2018-12-08</time>
-  </a>
-</section>
-
-  <section class="post" itemscope="" itemprop="blogPost">
-  
-    <a href="/2018/12/08/test/" title="test" itemprop="url">
-  
-    <h1 itemprop="name">test</h1>
-    
-    <time datetime="2018-12-08T05:39:42.000Z" itemprop="datePublished">2018-12-08</time>
-  </a>
-</section>
-
-  <section class="post" itemscope="" itemprop="blogPost">
-  
-    <a href="/2018/12/08/hello-world/" title="Hello World" itemprop="url">
-  
-    <h1 itemprop="name">Hello World</h1>
-    
-    <time datetime="2018-12-08T04:55:14.247Z" itemprop="datePublished">2018-12-08</time>
-  </a>
-</section>
-
-
-  </div>
+<div id="main" class="archive-part">
+<div class="all-list-box"></div>
 </div>
+
 
       </div>
-      <footer><div id="footer">
-	
-	<div class="line">
-		<span></span>
-		<div class="author"></div>
-	</div>
-	
-	
-	<div class="social-font clearfix">
-		
-		
-		
-		<a href="https://github.com/https://github.com/linqiuyan" target="_blank" title="github"></a>
-		
-		
-		
-	</div>
-		<p class="copyright">Powered by <a href="http://hexo.io" target="_blank" title="hexo">hexo</a> and Theme by <a href="https://github.com/A-limon/pacman" target="_blank" title="Pacman">Pacman</a> © 2018 
-		
-		<a href="http://linqiuyan.github.io" target="_blank" title="Lynn">Lynn</a>
-		
-		</p>
-</div>
-</footer>
       <script src="/js/jquery-2.1.0.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){ 
@@ -180,6 +121,24 @@ $(document).ready(function(){
 
 
 
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var list    = $('.archive-title a'),
+      box     = $('.all-list-box'),
+      first   = $('.archive-title a:first-of-type');
+      box.load(first.attr('data-src').toString()+' #archive-page');
+      first.addClass('current');
+  list.each(function(){
+    $(this).click(function(){
+      var listSrc=$(this).attr('data-src').toString()+' #archive-page';
+      box.load(listSrc);
+      list.removeClass('current');
+      $(this).addClass('current');
+     });  
+    });
+  }); 
+</script>
 
 
 
