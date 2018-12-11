@@ -2,31 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5dae7aa-ceba-48ea-ba3c-bd299147fd06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/pic/author.JPG" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/test2.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/img/author.JPG" afterPath="$PROJECT_DIR$/public/img/pacman.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/pacman.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git" afterPath="$PROJECT_DIR$/.deploy_git" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jacman" afterPath="$PROJECT_DIR$/themes/jacman" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pacman" afterPath="$PROJECT_DIR$/themes/pacman" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/font/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.eot" afterPath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.ttf" afterPath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.woff" afterPath="$PROJECT_DIR$/public/font/coveredbyyourgrace-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/font/fontawesome-webfont.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.json" afterPath="$PROJECT_DIR$/db.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/hello-world/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/hello-world/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/test/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/test/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/test2/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/test2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/今天杭州下雪很冷/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/今天杭州下雪很冷/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/使用Hexo和github搭建自己的博客/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/使用Hexo和github搭建自己的博客/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/2018/12/08/简易markdown使用教程/index.html" afterPath="$PROJECT_DIR$/public/2018/12/08/简易markdown使用教程/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2018/12/index.html" afterPath="$PROJECT_DIR$/public/archives/2018/12/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/2018/index.html" afterPath="$PROJECT_DIR$/public/archives/2018/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="$PROJECT_DIR$/public/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/test/index.html" afterPath="$PROJECT_DIR$/public/categories/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/实用工具/index.html" afterPath="$PROJECT_DIR$/public/categories/实用工具/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="$PROJECT_DIR$/public/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/the/index.html" afterPath="$PROJECT_DIR$/public/tags/the/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/瞎扯/index.html" afterPath="$PROJECT_DIR$/public/tags/瞎扯/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,105 +40,52 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="linqiuyan.github.io" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="hello-world.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="23" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="使用Hexo和github搭建自己的博客.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/使用Hexo和github搭建自己的博客.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="今天杭州下雪很冷.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/今天杭州下雪很冷.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="302">
-                <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="variable.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jacman/source/css/_base/variable.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="variable.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/pacman/source/css/_base/variable.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pacman.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/img/pacman.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/pacman/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/pacman/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="141">
-                <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pacman.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pacman2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jacman/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -171,13 +120,13 @@
         <option value="$PROJECT_DIR$/source/_posts/test2.md" />
         <option value="$PROJECT_DIR$/themes/jacman/_config.yml" />
         <option value="$PROJECT_DIR$/themes/pacman/layout/_widget/links.ejs" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/pacman/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/source/_posts/简易markdown使用教程.md" />
-        <option value="$PROJECT_DIR$/source/_posts/使用Hexo和github搭建自己的博客.md" />
         <option value="$PROJECT_DIR$/source/_posts/今天杭州下雪很冷.md" />
-        <option value="$PROJECT_DIR$/themes/pacman/source/css/_base/variable.styl" />
         <option value="$PROJECT_DIR$/themes/pacman/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/pacman/source/css/_base/variable.styl" />
+        <option value="$PROJECT_DIR$/source/_posts/使用Hexo和github搭建自己的博客.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -239,205 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jacman" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="linqiuyan.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,9 +207,11 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/themes/pacman/source" />
     </key>
@@ -869,15 +622,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544248169861</updated>
-      <workItem from="1544248172312" duration="13493000" />
+      <workItem from="1544248172312" duration="20846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13493000" />
+    <option name="totallyTimeSpent" value="20846000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="839" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="839" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -920,6 +682,10 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -934,17 +700,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1003,17 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/categories/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1059,23 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1904">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1544262622229" expanded="true" signature="2160:3391" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="2190:3380" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2224:2273" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2315:2551" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2367:2409" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2686:2932" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2729:2782" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2791:2928" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="2955:3088" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="3111:3284" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="3316:3376" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="3427:3944" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="3457:3932" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="3711:3926" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="3741:3916" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,24 +843,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2975">
           <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
-          <folding>
-            <marker date="1544262622230" expanded="true" signature="4412:4530" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="4412:4831" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="4938:5671" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="4554:4824" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="4776:4824" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="5755:6986" ph="..." />
-            <marker date="1544262622230" expanded="true" signature="5785:6975" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="5819:5868" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="5910:6146" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="5962:6004" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6281:6527" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6324:6377" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6386:6523" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6550:6683" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6706:6879" ph="{...}" />
-            <marker date="1544262622230" expanded="true" signature="6911:6971" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1151,36 +862,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="175" column="28" lean-forward="false" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
-          <folding>
-            <marker date="1544262622229" expanded="true" signature="9047:9317" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="9762:11050" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="9792:11039" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="9826:9875" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="9917:10153" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="9969:10011" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10288:10591" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10331:10384" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10393:10587" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10614:10747" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10770:10943" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="10975:11035" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11083:11831" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="11113:11820" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11380:11433" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11452:11504" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11524:11558" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11562:11817" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11586:11646" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11671:11711" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11745:11811" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="11865:13330" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="11895:13314" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="12098:13048" ph="[...]" />
-            <marker date="1544262622229" expanded="true" signature="13126:13310" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="13258:13304" ph="{...}" />
-            <marker date="1544262622229" expanded="true" signature="13364:13717" ph="..." />
-            <marker date="1544262622229" expanded="true" signature="13418:13704" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1250,14 +932,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="69" column="12" lean-forward="false" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/jacman/layout/_partial/footer.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1293,26 +967,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/使用Hexo和github搭建自己的博客.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/今天杭州下雪很冷.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <first_editor relative-caret-position="302">
+            <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/今天杭州下雪很冷.md">
+    <entry file="file://$PROJECT_DIR$/public/img/pacman.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jacman/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pacman/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="302">
-            <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <first_editor relative-caret-position="265">
+            <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/pacman/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/pacman.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/jacman/source/css/_base/variable.styl">
@@ -1325,57 +1046,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/pacman/source/css/_base/variable.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/pacman.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jacman/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pacman/source/img/pacman.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pacman/README.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/使用Hexo和github搭建自己的博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="141">
-            <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/pacman/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="23" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/pacman.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

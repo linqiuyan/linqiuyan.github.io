@@ -4,8 +4,8 @@
 
 # Site
 title: lqy blog
-subtitle: 一个平庸的程序媛
-description: 一个平庸的程序媛
+subtitle: 一枚菜鸡
+description: lqy
 keywords: 无
 author: Lynn
 language: zh-CN
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pacman
+theme: maupassant
 
 stylus:
   compress: true
@@ -84,10 +84,3 @@ deploy:
   type: git
   repository: git@github.com:linqiuyan/linqiuyan.github.io.git
   branch: master
-
-# mermaid chart
-mermaid: ## mermaid url https://github.com/knsv/mermaid
-  enable: true  # default true
-  version: "7.1.2" # default v7.1.2
-  options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
-    #startOnload: true  // default true
